@@ -2,7 +2,7 @@
 - 👀 I’m interesting video editing
 - 🌱 I’m currently learning Open Source
 - ⚙️ My specialty : .net, asp.net, wpf, postgresql
-- 📫 Connect with me: telegram
+- 📫 Connect with me: [telegram]: https://t.me/Ubaydullaye_me
 
 <!---
 ubaydullayevboburjon/ubaydullayevboburjon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
