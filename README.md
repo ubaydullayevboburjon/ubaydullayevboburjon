@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Boburjon
 - 👀 I’m interesting video editing
-- 🌱 I’m currently learning Dot-net
+- 🌱 I’m currently learning Open Source
 - ⚙️ My specialty : .net, asp.net, wpf, postgresql
 - 📫 Connect with me: telegram
 
